@@ -100,7 +100,7 @@ pip install flask google-genai PyPDF2
 5️⃣ Run the Application
 
 
-python main.py
+python app.py
 
 ---
 
