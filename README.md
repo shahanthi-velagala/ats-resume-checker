@@ -92,7 +92,6 @@ After activation, your terminal will display:
 
 4️⃣ Install Required Libraries
 
-pip install flask google-genai
 
 pip install flask google-genai PyPDF2
 
